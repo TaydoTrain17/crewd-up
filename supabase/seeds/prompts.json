@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "hot-0",
+    "text": "Brooklyn hot take: rooftop bars should have a bouncer quiz.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-1",
+    "text": "Queens hot take: rooftop bars should have a bouncer quiz.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-2",
+    "text": "Manhattan hot take: rooftop bars should have a bouncer quiz.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-3",
+    "text": "Bronx hot take: rooftop bars should have a bouncer quiz.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-4",
+    "text": "Brooklyn hot take: karaoke nights start too late.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-5",
+    "text": "Queens hot take: karaoke nights start too late.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-6",
+    "text": "Manhattan hot take: karaoke nights start too late.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-7",
+    "text": "Bronx hot take: karaoke nights start too late.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-8",
+    "text": "Brooklyn hot take: happy hour should last all weekend.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-9",
+    "text": "Queens hot take: happy hour should last all weekend.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-10",
+    "text": "Manhattan hot take: happy hour should last all weekend.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-11",
+    "text": "Bronx hot take: happy hour should last all weekend.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-12",
+    "text": "Brooklyn hot take: silent discos belong on the subway.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-13",
+    "text": "Queens hot take: silent discos belong on the subway.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-14",
+    "text": "Manhattan hot take: silent discos belong on the subway.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-15",
+    "text": "Bronx hot take: silent discos belong on the subway.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-16",
+    "text": "Brooklyn hot take: late-night slices taste better standing up.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-17",
+    "text": "Queens hot take: late-night slices taste better standing up.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-18",
+    "text": "Manhattan hot take: late-night slices taste better standing up.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-19",
+    "text": "Bronx hot take: late-night slices taste better standing up.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-20",
+    "text": "Brooklyn hot take: every speakeasy needs a secret handshake.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-21",
+    "text": "Queens hot take: every speakeasy needs a secret handshake.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-22",
+    "text": "Manhattan hot take: every speakeasy needs a secret handshake.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-23",
+    "text": "Bronx hot take: every speakeasy needs a secret handshake.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-24",
+    "text": "Brooklyn hot take: dive bars are the real co-working spaces.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-25",
+    "text": "Queens hot take: dive bars are the real co-working spaces.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-26",
+    "text": "Manhattan hot take: dive bars are the real co-working spaces.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-27",
+    "text": "Bronx hot take: dive bars are the real co-working spaces.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-28",
+    "text": "Brooklyn hot take: cash-only clubs are a red flag.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-29",
+    "text": "Queens hot take: cash-only clubs are a red flag.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-30",
+    "text": "Manhattan hot take: cash-only clubs are a red flag.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-31",
+    "text": "Bronx hot take: cash-only clubs are a red flag.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-32",
+    "text": "Brooklyn hot take: after-hours dance battles should be televised.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-33",
+    "text": "Queens hot take: after-hours dance battles should be televised.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-34",
+    "text": "Manhattan hot take: after-hours dance battles should be televised.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-35",
+    "text": "Bronx hot take: after-hours dance battles should be televised.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-36",
+    "text": "Brooklyn hot take: VIP lines ruin the vibe.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "brooklyn"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-37",
+    "text": "Queens hot take: VIP lines ruin the vibe.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "queens"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-38",
+    "text": "Manhattan hot take: VIP lines ruin the vibe.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "manhattan"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "hot-39",
+    "text": "Bronx hot take: VIP lines ruin the vibe.",
+    "type": "hot_take",
+    "tags": [
+      "nightlife",
+      "culture",
+      "bronx"
+    ],
+    "risk": 5,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-0",
+    "text": "Who in the crew always finds the secret entrance in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-1",
+    "text": "Who in the crew always finds the secret entrance in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-2",
+    "text": "Who in the crew always finds the secret entrance in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-3",
+    "text": "Who in the crew always finds the secret entrance in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-4",
+    "text": "Who in the crew knows every bodega cat by name in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-5",
+    "text": "Who in the crew knows every bodega cat by name in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-6",
+    "text": "Who in the crew knows every bodega cat by name in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-7",
+    "text": "Who in the crew knows every bodega cat by name in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-8",
+    "text": "Who in the crew collects MetroCards for fun in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-9",
+    "text": "Who in the crew collects MetroCards for fun in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-10",
+    "text": "Who in the crew collects MetroCards for fun in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-11",
+    "text": "Who in the crew collects MetroCards for fun in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-12",
+    "text": "Who in the crew can hail a cab during a blizzard in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-13",
+    "text": "Who in the crew can hail a cab during a blizzard in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-14",
+    "text": "Who in the crew can hail a cab during a blizzard in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-15",
+    "text": "Who in the crew can hail a cab during a blizzard in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-16",
+    "text": "Who in the crew turns every brunch into a photoshoot in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-17",
+    "text": "Who in the crew turns every brunch into a photoshoot in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-18",
+    "text": "Who in the crew turns every brunch into a photoshoot in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-19",
+    "text": "Who in the crew turns every brunch into a photoshoot in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-20",
+    "text": "Who in the crew naps on the ferry without missing the stop in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-21",
+    "text": "Who in the crew naps on the ferry without missing the stop in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-22",
+    "text": "Who in the crew naps on the ferry without missing the stop in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-23",
+    "text": "Who in the crew naps on the ferry without missing the stop in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-24",
+    "text": "Who in the crew has a playlist for every subway line in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-25",
+    "text": "Who in the crew has a playlist for every subway line in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-26",
+    "text": "Who in the crew has a playlist for every subway line in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-27",
+    "text": "Who in the crew has a playlist for every subway line in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-28",
+    "text": "Who in the crew befriends bartenders instantly in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-29",
+    "text": "Who in the crew befriends bartenders instantly in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-30",
+    "text": "Who in the crew befriends bartenders instantly in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-31",
+    "text": "Who in the crew befriends bartenders instantly in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-32",
+    "text": "Who in the crew knows a shortcut through any parade in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-33",
+    "text": "Who in the crew knows a shortcut through any parade in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-34",
+    "text": "Who in the crew knows a shortcut through any parade in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-35",
+    "text": "Who in the crew knows a shortcut through any parade in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-36",
+    "text": "Who in the crew leads the group chat with memes in Brooklyn?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "brooklyn"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-37",
+    "text": "Who in the crew leads the group chat with memes in Queens?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "queens"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-38",
+    "text": "Who in the crew leads the group chat with memes in Manhattan?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "manhattan"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "callout-39",
+    "text": "Who in the crew leads the group chat with memes in Bronx?",
+    "type": "callout",
+    "tags": [
+      "nightlife",
+      "boroughs",
+      "bronx"
+    ],
+    "risk": 3,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-0",
+    "text": "Dare: drop your best tourist-friendly roast but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-1",
+    "text": "Dare: drop your best tourist-friendly roast but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-2",
+    "text": "Dare: drop your best tourist-friendly roast but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-3",
+    "text": "Dare: drop your best tourist-friendly roast but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-4",
+    "text": "Dare: tell the group your emergency hype song but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-5",
+    "text": "Dare: tell the group your emergency hype song but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-6",
+    "text": "Dare: tell the group your emergency hype song but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-7",
+    "text": "Dare: tell the group your emergency hype song but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-8",
+    "text": "Dare: type a DM you almost sent last weekend but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-9",
+    "text": "Dare: type a DM you almost sent last weekend but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-10",
+    "text": "Dare: type a DM you almost sent last weekend but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-11",
+    "text": "Dare: type a DM you almost sent last weekend but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-12",
+    "text": "Dare: write a review of tonight in five emojis but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-13",
+    "text": "Dare: write a review of tonight in five emojis but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-14",
+    "text": "Dare: write a review of tonight in five emojis but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-15",
+    "text": "Dare: write a review of tonight in five emojis but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-16",
+    "text": "Dare: share a secret happy-hour tip but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-17",
+    "text": "Dare: share a secret happy-hour tip but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-18",
+    "text": "Dare: share a secret happy-hour tip but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-19",
+    "text": "Dare: share a secret happy-hour tip but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-20",
+    "text": "Dare: make up a new borough nickname but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-21",
+    "text": "Dare: make up a new borough nickname but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-22",
+    "text": "Dare: make up a new borough nickname but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-23",
+    "text": "Dare: make up a new borough nickname but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-24",
+    "text": "Dare: draft a fake celebrity sighting but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-25",
+    "text": "Dare: draft a fake celebrity sighting but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-26",
+    "text": "Dare: draft a fake celebrity sighting but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-27",
+    "text": "Dare: draft a fake celebrity sighting but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-28",
+    "text": "Dare: pitch a show about your crew but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-29",
+    "text": "Dare: pitch a show about your crew but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-30",
+    "text": "Dare: pitch a show about your crew but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-31",
+    "text": "Dare: pitch a show about your crew but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-32",
+    "text": "Dare: describe the night using only food but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-33",
+    "text": "Dare: describe the night using only food but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-34",
+    "text": "Dare: describe the night using only food but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-35",
+    "text": "Dare: describe the night using only food but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-36",
+    "text": "Dare: post the cab confession you'd never admit but make it Brooklyn.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "brooklyn"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-37",
+    "text": "Dare: post the cab confession you'd never admit but make it Queens.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "queens"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-38",
+    "text": "Dare: post the cab confession you'd never admit but make it Manhattan.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "manhattan"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  },
+  {
+    "id": "dare-39",
+    "text": "Dare: post the cab confession you'd never admit but make it Bronx.",
+    "type": "dare",
+    "tags": [
+      "nightlife",
+      "fun",
+      "bronx"
+    ],
+    "risk": 4,
+    "locale": "en-US",
+    "active": true
+  }
+]

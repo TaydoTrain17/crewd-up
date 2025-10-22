@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "Crew'd Up",
+    "slug": "crewdup",
+    "scheme": "crewdup",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F1115"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.crewdup.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0F1115"
+      },
+      "package": "com.crewdup.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "sentry-expo",
+        {
+          "dsn": "${SENTRY_DSN}"
+        }
+      ],
+      "expo-notifications"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      },
+      "EXPO_PUBLIC_SUPABASE_URL": "${EXPO_PUBLIC_SUPABASE_URL}",
+      "EXPO_PUBLIC_SUPABASE_ANON_KEY": "${EXPO_PUBLIC_SUPABASE_ANON_KEY}",
+      "AMPLITUDE_API_KEY": "${AMPLITUDE_API_KEY}",
+      "SENTRY_DSN": "${SENTRY_DSN}",
+      "EXPO_PUBLIC_EDGE_URL": "${EXPO_PUBLIC_EDGE_URL}"
+    }
+  }
+}
