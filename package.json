@@ -1,0 +1,17 @@
+{
+  "name": "crewd-up",
+  "private": true,
+  "workspaces": [
+    "apps/mobile",
+    "packages/*",
+    "scripts"
+  ],
+  "scripts": {
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+dist/
+build/
+.expo/
+.env
+.env.*
+.DS_Store
+coverage/
+supabase/.temp/
+.git-credentials
+!.env.example
